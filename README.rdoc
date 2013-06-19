@@ -12,3 +12,5 @@ Simple really, just include it with your other ExtJS 4 classes and call the play
                 fart.playRandom();
             }
         });
+
+
