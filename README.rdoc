@@ -4,7 +4,7 @@ An ExtJS 4.x fart class that allows you to play random fart sounds. Inspired by 
 
 == How to use it?
 
-Simple really, just include it with your other ExtJS 4 classes and call the playRandom method to play a random fart sound. The example below will play a random fart sound on every 100th keypress, which is what the class will do by default when it's included as is.
+Simple really, just include it with your other ExtJS 4 classes and call the playRandom method to play a random fart sound. The example below will play a random fart sound on every 100th click, which is what the class will do by default when it's included as is.
 
         Ext.getBody().on('click',function(){
             fart.count++;
